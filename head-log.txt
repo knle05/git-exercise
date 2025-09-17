@@ -1,0 +1,44 @@
+0000000000000000000000000000000000000000 ec7e9ec1dba4731ec339fd4ebdded3e6897c84c9 Kiều Nhật Lệ <knle.sgt@gmail.com> 1758074359 +0700	checkout: moving from master to feature/issue_00-List-Screen
+ec7e9ec1dba4731ec339fd4ebdded3e6897c84c9 ec7e9ec1dba4731ec339fd4ebdded3e6897c84c9 Kiều Nhật Lệ <knle.sgt@gmail.com> 1758074748 +0700	checkout: moving from feature/issue_00-List-Screen to feature/issue_00-List-Screen
+ec7e9ec1dba4731ec339fd4ebdded3e6897c84c9 ec7e9ec1dba4731ec339fd4ebdded3e6897c84c9 Kiều Nhật Lệ <knle.sgt@gmail.com> 1758074760 +0700	reset: moving to upstream/feature/issue_00-List-Screen
+ec7e9ec1dba4731ec339fd4ebdded3e6897c84c9 3e1401df847894754987a86af57333ef0d0f5764 Kiều Nhật Lệ <knle.sgt@gmail.com> 1758074772 +0700	rebase (start): checkout upstream/develop
+3e1401df847894754987a86af57333ef0d0f5764 705cc50411103121bd92bd5fcfeffb9bb02b18ba Kiều Nhật Lệ <knle.sgt@gmail.com> 1758074772 +0700	rebase (pick): #00 list screen
+705cc50411103121bd92bd5fcfeffb9bb02b18ba 705cc50411103121bd92bd5fcfeffb9bb02b18ba Kiều Nhật Lệ <knle.sgt@gmail.com> 1758074772 +0700	rebase (finish): returning to refs/heads/feature/issue_00-List-Screen
+705cc50411103121bd92bd5fcfeffb9bb02b18ba 3e1401df847894754987a86af57333ef0d0f5764 Kiều Nhật Lệ <knle.sgt@gmail.com> 1758075018 +0700	checkout: moving from feature/issue_00-List-Screen to develop
+3e1401df847894754987a86af57333ef0d0f5764 705cc50411103121bd92bd5fcfeffb9bb02b18ba Kiều Nhật Lệ <knle.sgt@gmail.com> 1758075032 +0700	checkout: moving from develop to feature/issue_00-List-Screen
+705cc50411103121bd92bd5fcfeffb9bb02b18ba b853f23f5578072bb2ea11d0335dd3af97155419 Kiều Nhật Lệ <knle.sgt@gmail.com> 1758075326 +0700	commit: Fix bug 1
+b853f23f5578072bb2ea11d0335dd3af97155419 414045b5ded4c9471186390ded74f247a71e709d Kiều Nhật Lệ <knle.sgt@gmail.com> 1758075327 +0700	commit: Fix bug 2
+414045b5ded4c9471186390ded74f247a71e709d 40fb4069f023889224daf9ca2345866fa33dd8ee Kiều Nhật Lệ <knle.sgt@gmail.com> 1758075327 +0700	commit: Fix bug 3
+40fb4069f023889224daf9ca2345866fa33dd8ee a27511cc089419d0ecb633e14c71a212798c2749 Kiều Nhật Lệ <knle.sgt@gmail.com> 1758075332 +0700	commit: Fix bug
+a27511cc089419d0ecb633e14c71a212798c2749 a27511cc089419d0ecb633e14c71a212798c2749 Kiều Nhật Lệ <knle.sgt@gmail.com> 1758075525 +0700	rebase (start): checkout HEAD~4
+a27511cc089419d0ecb633e14c71a212798c2749 a27511cc089419d0ecb633e14c71a212798c2749 Kiều Nhật Lệ <knle.sgt@gmail.com> 1758075525 +0700	rebase (finish): returning to refs/heads/feature/issue_00-List-Screen
+a27511cc089419d0ecb633e14c71a212798c2749 705cc50411103121bd92bd5fcfeffb9bb02b18ba Kiều Nhật Lệ <knle.sgt@gmail.com> 1758075628 +0700	rebase (start): checkout HEAD~4
+705cc50411103121bd92bd5fcfeffb9bb02b18ba b853f23f5578072bb2ea11d0335dd3af97155419 Kiều Nhật Lệ <knle.sgt@gmail.com> 1758075628 +0700	rebase: fast-forward
+b853f23f5578072bb2ea11d0335dd3af97155419 2fcef7b072206a84041936852f18147a9c427894 Kiều Nhật Lệ <knle.sgt@gmail.com> 1758075759 +0700	commit (amend): Fix bug 1
+2fcef7b072206a84041936852f18147a9c427894 70a1abf8b2a9278be3ba9b39a9f51f58bf04c04e Kiều Nhật Lệ <knle.sgt@gmail.com> 1758075765 +0700	rebase (fixup): # This is a combination of 2 commits.
+70a1abf8b2a9278be3ba9b39a9f51f58bf04c04e 97ab0db511d462224d3b24f7fdadf7775137060e Kiều Nhật Lệ <knle.sgt@gmail.com> 1758075765 +0700	rebase (fixup): Fix bug 1
+97ab0db511d462224d3b24f7fdadf7775137060e 63f51a5cd4e14478d1e7089f054b0b5081a1d787 Kiều Nhật Lệ <knle.sgt@gmail.com> 1758075765 +0700	rebase (pick): Fix bug
+63f51a5cd4e14478d1e7089f054b0b5081a1d787 63f51a5cd4e14478d1e7089f054b0b5081a1d787 Kiều Nhật Lệ <knle.sgt@gmail.com> 1758075765 +0700	rebase (finish): returning to refs/heads/feature/issue_00-List-Screen
+63f51a5cd4e14478d1e7089f054b0b5081a1d787 3e4df5ed859140695066b65d831c95efdcaa00cc Kiều Nhật Lệ <knle.sgt@gmail.com> 1758075773 +0700	commit (amend): Fix bug
+3e4df5ed859140695066b65d831c95efdcaa00cc 97ab0db511d462224d3b24f7fdadf7775137060e Kiều Nhật Lệ <knle.sgt@gmail.com> 1758075917 +0700	rebase (start): checkout 705cc50
+97ab0db511d462224d3b24f7fdadf7775137060e e6baf121ba455f33caec50e3ffe8617c4b7eb5a6 Kiều Nhật Lệ <knle.sgt@gmail.com> 1758075917 +0700	rebase (fixup): Fix bug 1
+e6baf121ba455f33caec50e3ffe8617c4b7eb5a6 e6baf121ba455f33caec50e3ffe8617c4b7eb5a6 Kiều Nhật Lệ <knle.sgt@gmail.com> 1758075917 +0700	rebase (finish): returning to refs/heads/feature/issue_00-List-Screen
+e6baf121ba455f33caec50e3ffe8617c4b7eb5a6 df25103be9472c13c2b4b082f63ed710c541008f Kiều Nhật Lệ <knle.sgt@gmail.com> 1758075954 +0700	commit (amend): Fix bug
+df25103be9472c13c2b4b082f63ed710c541008f d91c25f7b3c6888c37c120a2895b02a8fa543c6d Kiều Nhật Lệ <knle.sgt@gmail.com> 1758076155 +0700	checkout: moving from feature/issue_00-List-Screen to feature/issue_00_Register-Screen
+d91c25f7b3c6888c37c120a2895b02a8fa543c6d 3e1401df847894754987a86af57333ef0d0f5764 Kiều Nhật Lệ <knle.sgt@gmail.com> 1758076170 +0700	rebase (start): checkout upstream/develop
+3e1401df847894754987a86af57333ef0d0f5764 4c2a295ece35624c17256ecbbe0d6397c65de0db Kiều Nhật Lệ <knle.sgt@gmail.com> 1758076170 +0700	rebase (pick): #00 list screen
+4c2a295ece35624c17256ecbbe0d6397c65de0db 7eb52271b608eac449704ac83b2918f79245862b Kiều Nhật Lệ <knle.sgt@gmail.com> 1758076170 +0700	rebase (pick): new changes
+7eb52271b608eac449704ac83b2918f79245862b f616ddb9815648fb0a0c0561a9b213add8ce0931 Kiều Nhật Lệ <knle.sgt@gmail.com> 1758076170 +0700	rebase (pick): nttam Coding Unit Test and Functional Test
+f616ddb9815648fb0a0c0561a9b213add8ce0931 5b15e36d4dbd4d5a0f9f5cc26001397d44bee72e Kiều Nhật Lệ <knle.sgt@gmail.com> 1758076170 +0700	rebase (pick): Fix bug 1
+5b15e36d4dbd4d5a0f9f5cc26001397d44bee72e 43217e1afcb0cfa374a2e9e35ccae66bea531b37 Kiều Nhật Lệ <knle.sgt@gmail.com> 1758076170 +0700	rebase (pick): new changes
+43217e1afcb0cfa374a2e9e35ccae66bea531b37 210a792b96b0bfa10c17560366a060b9e0fd35ba Kiều Nhật Lệ <knle.sgt@gmail.com> 1758076170 +0700	rebase (pick): Fix bug 2
+210a792b96b0bfa10c17560366a060b9e0fd35ba be344faecf78ebdbb762646038f743fd009896ba Kiều Nhật Lệ <knle.sgt@gmail.com> 1758076170 +0700	rebase (pick): Fix bug 3
+be344faecf78ebdbb762646038f743fd009896ba 085a6bfa74a962c146194cd16663aae30f37906d Kiều Nhật Lệ <knle.sgt@gmail.com> 1758076170 +0700	rebase (pick): new changes
+085a6bfa74a962c146194cd16663aae30f37906d 7078871bd13e95cc1714da5b3cb331b8a9877276 Kiều Nhật Lệ <knle.sgt@gmail.com> 1758076170 +0700	rebase (pick): new changes
+7078871bd13e95cc1714da5b3cb331b8a9877276 7078871bd13e95cc1714da5b3cb331b8a9877276 Kiều Nhật Lệ <knle.sgt@gmail.com> 1758076170 +0700	rebase (finish): returning to refs/heads/feature/issue_00_Register-Screen
+7078871bd13e95cc1714da5b3cb331b8a9877276 7078871bd13e95cc1714da5b3cb331b8a9877276 Kiều Nhật Lệ <knle.sgt@gmail.com> 1758076453 +0700	checkout: moving from feature/issue_00_Register-Screen to feature/issue_00_Register-Screen
+7078871bd13e95cc1714da5b3cb331b8a9877276 7078871bd13e95cc1714da5b3cb331b8a9877276 Kiều Nhật Lệ <knle.sgt@gmail.com> 1758076612 +0700	checkout: moving from feature/issue_00_Register-Screen to feature/issue_00_Register-Screen
+7078871bd13e95cc1714da5b3cb331b8a9877276 7078871bd13e95cc1714da5b3cb331b8a9877276 Kiều Nhật Lệ <knle.sgt@gmail.com> 1758076666 +0700	checkout: moving from feature/issue_00_Register-Screen to feature/issue_00_Register-Screen
+7078871bd13e95cc1714da5b3cb331b8a9877276 f45928355834d49244374cb62cf81f9ff7a4594a Kiều Nhật Lệ <knle.sgt@gmail.com> 1758076685 +0700	cherry-pick: #00 Add new screen register 2
+f45928355834d49244374cb62cf81f9ff7a4594a 764da807c00f4657f344417ee032f1a83996cd22 Kiều Nhật Lệ <knle.sgt@gmail.com> 1758077372 +0700	checkout: moving from feature/issue_00_Register-Screen to feature/issue_152-knle-sgt
+764da807c00f4657f344417ee032f1a83996cd22 764da807c00f4657f344417ee032f1a83996cd22 Kiều Nhật Lệ <knle.sgt@gmail.com> 1758077394 +0700	checkout: moving from feature/issue_152-knle-sgt to feature/issue_152-knle-sgt
